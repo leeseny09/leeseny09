@@ -89,7 +89,7 @@
         <td>팀</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/leeseny09/EL-Character-Generator"><b>🦦 동아리 부원 소개 캐릭터 생성기</b></a></td>
+        <td><a href="https://github.com/leeseny09/EL-MiniProject.git"><b>🦦 동아리 부원 소개 캐릭터 생성기</b></a></td>
         <td>동아리 부원 소개용 캐릭터 생성기 기획 · 디자인</td>
         <td>Adobe Photoshop · 기획</td>
         <td>팀 (2인)</td>
