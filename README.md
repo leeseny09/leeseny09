@@ -100,10 +100,10 @@
 
 <br>
 
+
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=leeseny09&bg_color=180,f8f2e8,00000000&title_color=8d7c68&text_color=8d7c68"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeseny09&layout=compact&bg_color=180,f8f2e8,00000000&title_color=8d7c68&text_color=8d7c68"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leeseny09&show_icons=true" width="475" align="center" />
   </div>
 </div>
