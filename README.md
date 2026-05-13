@@ -80,13 +80,13 @@
         <td><a href="https://github.com/leeseny09/CookClick"><b>🍳 CookClick</b></a></td>
         <td>레시피 공유 & 식료품 구매 정적 웹사이트</td>
         <td>HTML · CSS</td>
-        <td>팀</td>
+        <td>팀(6명)</td>
       </tr>
       <tr>
         <td><a href="https://github.com/leeseny09/KOBi"><b>⚾ KOBi</b></a></td>
         <td>KBO 팬 맞춤형 경기 정보 & 구장 먹거리 통합 플랫폼 기획</td>
         <td>Figma · UI/UX 기획</td>
-        <td>팀</td>
+        <td>개인</td>
       </tr>
       <tr>
         <td><a href="https://github.com/leeseny09/EL-MiniProject.git"><b>🦦 동아리 부원 소개 캐릭터 생성기</b></a></td>
