@@ -56,19 +56,19 @@
         <td><a href="https://github.com/leeseny09/GardenLog"><b>🌱 GardenLog</b></a></td>
         <td>스마트 텃밭 관리 웹 서비스</td>
         <td>Java · Servlet · JSP · MySQL</td>
-        <td>팀 (3인)</td>
+        <td>팀(3인)</td>
       </tr>
       <tr>
         <td><a href="https://github.com/leeseny09/Kkum-teul"><b>🌿 꿈틀</b></a></td>
         <td>만다라트 기반 목표 관리 웹 서비스</td>
         <td>Spring Boot · JPA · MySQL · OAuth2</td>
-        <td>팀 (3인)</td>
+        <td>팀(3인)</td>
       </tr>
       <tr>
         <td><a href="https://github.com/leeseny09/Seoul-Crime-CCTV-Analysis"><b>📊 서울시 지역 안전 데이터 분석</b></a></td>
         <td>범죄 · CCTV · 1인가구 상관관계 분석 웹 앱</td>
         <td>Python · Streamlit · Pandas</td>
-        <td>팀 (3인)</td>
+        <td>팀(3인)</td>
       </tr>
       <tr>
         <td><a href="https://github.com/leeseny09/Smart-Pet-Feeder"><b>🐾 스마트 반려동물 자동 급식기</b></a></td>
@@ -80,7 +80,7 @@
         <td><a href="https://github.com/leeseny09/CookClick"><b>🍳 CookClick</b></a></td>
         <td>레시피 공유 & 식료품 구매 정적 웹사이트</td>
         <td>HTML · CSS</td>
-        <td>팀(6명)</td>
+        <td>팀(6인)</td>
       </tr>
       <tr>
         <td><a href="https://github.com/leeseny09/KOBi"><b>⚾ KOBi</b></a></td>
@@ -92,7 +92,7 @@
         <td><a href="https://github.com/leeseny09/EL-MiniProject.git"><b>🦦 동아리 부원 소개 캐릭터 생성기</b></a></td>
         <td>동아리 부원 소개용 캐릭터 생성기 기획 · 디자인</td>
         <td>Adobe Photoshop · 기획</td>
-        <td>팀 (2인)</td>
+        <td>팀(2인)</td>
       </tr>
     </tbody>
   </table>
